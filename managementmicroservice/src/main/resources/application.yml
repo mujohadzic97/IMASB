@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    foos:
+      path: /**
+      url: http://localhost:8085/
